@@ -4,7 +4,7 @@ Este repositorio fue creado con la finalidad de brindar alternativas gratuitas d
 > *el éxito depende de ti 😉*
 
 ## [Gemini-CLI](https://github.com/google-gemini/gemini-cli)
-Instalar esta herramienta requiere una API key de Gemini, la cual es gratuita y permite hasta 100 consultas por mes además de node en una versión superior a la 18 para su correcto funcionamiento. La actualización de node se realiza a través de nvm. El presente script automatiza la instalación de nvm y actualización de node así como también la instalación del CLI.
+Instalar esta herramienta requiere una API key de Gemini, la cual es gratuita y permite hasta 100 consultas por mes además de node en una versión igual o superior a la 20 para su correcto funcionamiento. La actualización de node se realiza a través de nvm. El presente script automatiza la instalación de nvm y actualización de node así como también la instalación del CLI.
 
   - Crea una cuenta en [Google AI for Developers](https://ai.google.dev) y luego obtén la [API key](https://ai.google.dev/gemini-api/docs)
   - Abre la terminal de Parrot y ejecuta `git clone https://github.com/NickyCorro/ceh-lourtec.git`
