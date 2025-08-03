@@ -14,8 +14,8 @@ chmod +x ceh-lourtec/gemini-installer.sh
 ceh-lourtec/gemini-installer.sh
 ```
   - Introduce la API key y espera a que finalice la instalación
-  - Selecciona la opción 2 y ya puedes realizar consultas a la IA. Puedes abrir esta interfaz nuevamente con el comando `gemini`
-![](https://albumizr.com/ia/7ce6d31b95cf65b64a531711ea57374d.jpg)
+  - Selecciona la opción 2 y ya puedes realizar consultas a la IA establecidas por el curso, obteniendo resultados bastante similares. Puedes abrir esta interfaz nuevamente en cualquier directorio con el comando `gemini`
+![](https://albumizr.com/ia/0c4bb5dea07a47b64c755c96f378a821.jpg)
 
 ## [Warp 2.0](https://www.warp.dev)
 
